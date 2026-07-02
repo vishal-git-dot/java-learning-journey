@@ -21,21 +21,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Set up Python
+      - name: 🐍 Set Up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generate Learning Day
+      - name: 📂 Generate Learning Day
         run: |
           python scripts/create_day.py \
             "${{ github.event.inputs.day }}" \
             "${{ github.event.inputs.topic }}"
 
-      - name: Commit Changes
+      - name: 📝 Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -47,10 +49,8 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Create Day ${{ github.event.inputs.day }} - ${{ github.event.inputs.topic }}"
+          git commit -m "📚 Create Day ${{ github.event.inputs.day }} - ${{ github.event.inputs.topic }}"
 
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref_name }}
+      - name: 🚀 Push Changes
+        run: |
+          git push origin HEAD:${{ github.ref_name }}
