@@ -156,13 +156,13 @@ dayXX-topic-name/
 ```text
 Overall Progress
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 1%
+Completion : 3%
 
-Completed Lessons : 1 / 71
+Completed Lessons : 2 / 71
 
-Remaining Lessons : 70
+Remaining Lessons : 69
 
 Mini Projects : 0 / 16
 ```
@@ -174,9 +174,9 @@ Mini Projects : 0 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 01
+Day 02
 
-Introduction To Java
+Variables
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -186,9 +186,9 @@ Introduction To Java
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 02
+Day 03
 
-Variables
+User Input
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -198,6 +198,7 @@ Variables
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 02 - Variables
 ✓ Day 01 - Introduction To Java
 ```
 <!-- AUTO_RECENT_END -->
@@ -230,7 +231,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | Day | Topic | Status |
 |:---:|------------------------------|:------:|
 | 01 | Introduction to Java | ✅ |
-| 02 | Variables | ⬜ |
+| 02 | Variables | ✅ |
 | 03 | User Input | ⬜ |
 | 04 | ⭐ Mad Libs Game | ⬜ |
 | 05 | Arithmetic | ⬜ |
