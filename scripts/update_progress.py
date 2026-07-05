@@ -491,6 +491,51 @@ def update_roadmap(content, lessons):
 
     return "\n".join(lines)
 
+# ==========================================
+# Update AUTO_STATS
+# ==========================================
+
+def update_stats(content, lessons):
+
+    stats = get_statistics(lessons)
+
+    current = get_current_lesson(lessons)
+    next_lesson = get_next_lesson(lessons)
+
+    if current:
+        current_text = f"Day {current.number:02d} — {current.title}"
+    else:
+        current_text = "None"
+
+    if next_lesson:
+        next_text = f"Day {next_lesson['number']:02d} — {next_lesson['title']}"
+    else:
+        next_text = "Course Completed 🎉"
+
+    last_updated = (
+        current.full_title
+        if current
+        else "Not Started"
+    )
+
+    remaining = TOTAL_LESSONS - stats["completed"]
+
+    block = f"""| Statistic | Value |
+|-----------|------:|
+| Total Lessons | **{TOTAL_LESSONS}** |
+| Completed Lessons | **{stats['completed']}** |
+| Remaining Lessons | **{remaining}** |
+| Completion | **{stats['percent']}%** |
+| Mini Projects Completed | **{stats['projects']} / {len(PROJECT_DAYS)}** |
+| Current Lesson | **{current_text}** |
+| Next Lesson | **{next_text}** |
+| Last Updated | **{last_updated}** |"""
+
+    return replace_block(
+        content,
+        "AUTO_STATS",
+        block,
+    )
 
 # ==========================================
 # Main
@@ -498,21 +543,25 @@ def update_roadmap(content, lessons):
 
 def main():
 
-    print("Scanning lesson folders...")
+    print("\n========================================")
+    print(" Java Learning Progress Updater")
+    print("========================================\n")
 
+    # Scan lesson folders
     lessons = scan_lessons()
 
-    print(f"Found {len(lessons)} completed lesson(s).")
+    print(f"✓ Found {len(lessons)} completed lesson(s).")
 
+    # Read README
     content = read_readme()
 
-    # Update the main automation blocks
+    # Update automated sections
     content = update_main_sections(
         content,
         lessons,
     )
 
-    # Update the roadmap table
+    # Update roadmap
     content = update_roadmap(
         content,
         lessons,
@@ -521,32 +570,40 @@ def main():
     # Save README
     write_readme(content)
 
-    print("README.md updated successfully!")
+    print("✓ README.md updated successfully.\n")
 
+    # Statistics
     stats = get_statistics(lessons)
 
-    print("----------------------------------")
-    print(f"Completed Lessons : {stats['completed']}/{TOTAL_LESSONS}")
-    print(f"Completion        : {stats['percent']}%")
-    print(f"Mini Projects     : {stats['projects']}/{len(PROJECT_DAYS)}")
-
     current = get_current_lesson(lessons)
+    next_lesson = get_next_lesson(lessons)
+
+    remaining = TOTAL_LESSONS - stats["completed"]
+
+    print("----------------------------------------")
+    print("Learning Statistics")
+    print("----------------------------------------")
+    print(f"Total Lessons      : {TOTAL_LESSONS}")
+    print(f"Completed Lessons  : {stats['completed']}")
+    print(f"Remaining Lessons  : {remaining}")
+    print(f"Completion Rate    : {stats['percent']}%")
+    print(f"Mini Projects      : {stats['projects']} / {len(PROJECT_DAYS)}")
 
     if current:
-        print(f"Current Lesson    : {current.full_title}")
+        print(f"Current Lesson     : {current.full_title}")
     else:
-        print("Current Lesson    : Not Started")
-
-    next_lesson = get_next_lesson(lessons)
+        print("Current Lesson     : None")
 
     if next_lesson:
         print(
-            f"Next Lesson       : Day {next_lesson['number']:02d} - {next_lesson['title']}"
+            f"Next Lesson        : Day {next_lesson['number']:02d} - {next_lesson['title']}"
         )
     else:
-        print("Next Lesson       : Course Completed 🎉")
+        print("Next Lesson        : Course Completed 🎉")
 
-    print("----------------------------------")
+    print("----------------------------------------")
+    print("README automation completed successfully.")
+    print("----------------------------------------")
 
 
 if __name__ == "__main__":
