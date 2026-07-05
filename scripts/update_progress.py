@@ -437,6 +437,12 @@ def update_main_sections(content, lessons):
         recent,
     )
 
+    # Update Learning Statistics
+    content = update_stats(
+        content,
+        lessons,
+    )
+
     return content
 
 # ==========================================
