@@ -134,18 +134,16 @@ dayXX-topic-name/
 # 📊 Learning Statistics
 
 <!-- AUTO_STATS_START -->
-
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **1** |
-| Remaining Lessons | **71** |
-| Completion | **1%** |
+| Completed Lessons | **2** |
+| Remaining Lessons | **69** |
+| Completion | **3%** |
 | Mini Projects Completed | **0 / 16** |
-| Current Lesson | **None** |
-| Next Lesson | **Day 01 — Introduction to Java** |
-| Last Updated | **Not Started** |
-
+| Current Lesson | **Day 02 — Variables** |
+| Next Lesson | **Day 03 — User Input** |
+| Last Updated | **Day 02 — Variables** |
 <!-- AUTO_STATS_END -->
 
 ---
