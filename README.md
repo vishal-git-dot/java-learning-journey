@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **2** |
-| Remaining Lessons | **69** |
-| Completion | **3%** |
+| Completed Lessons | **3** |
+| Remaining Lessons | **68** |
+| Completion | **4%** |
 | Mini Projects Completed | **0 / 16** |
-| Current Lesson | **Day 02 — Variables** |
-| Next Lesson | **Day 03 — User Input** |
-| Last Updated | **Day 02 — Variables** |
+| Current Lesson | **Day 03 — User Input** |
+| Next Lesson | **Day 04 — Mad Libs Game** |
+| Last Updated | **Day 03 — User Input** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,11 +156,11 @@ Overall Progress
 
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 3%
+Completion : 4%
 
-Completed Lessons : 2 / 71
+Completed Lessons : 3 / 71
 
-Remaining Lessons : 69
+Remaining Lessons : 68
 
 Mini Projects : 0 / 16
 ```
@@ -172,9 +172,9 @@ Mini Projects : 0 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 02
+Day 03
 
-Variables
+User Input
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Variables
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 03
+Day 04
 
-User Input
+Mad Libs Game
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,6 +196,7 @@ User Input
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 03 - User Input
 ✓ Day 02 - Variables
 ✓ Day 01 - Introduction To Java
 ```
@@ -230,7 +231,7 @@ The roadmap below is updated automatically by GitHub Actions.
 |:---:|------------------------------|:------:|
 | 01 | Introduction to Java | ✅ |
 | 02 | Variables | ✅ |
-| 03 | User Input | ⬜ |
+| 03 | User Input | ✅ |
 | 04 | ⭐ Mad Libs Game | ⬜ |
 | 05 | Arithmetic | ⬜ |
 | 06 | ⭐ Shopping Cart Program | ⬜ |
