@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **3** |
-| Remaining Lessons | **68** |
-| Completion | **4%** |
-| Mini Projects Completed | **0 / 16** |
-| Current Lesson | **Day 03 — User Input** |
-| Next Lesson | **Day 04 — Mad Libs Game** |
-| Last Updated | **Day 03 — User Input** |
+| Completed Lessons | **4** |
+| Remaining Lessons | **67** |
+| Completion | **6%** |
+| Mini Projects Completed | **1 / 16** |
+| Current Lesson | **Day 04 — Mad Libs Game** |
+| Next Lesson | **Day 05 — Arithmetic** |
+| Last Updated | **Day 04 — Mad Libs Game** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -154,15 +154,15 @@ dayXX-topic-name/
 ```text
 Overall Progress
 
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 4%
+Completion : 6%
 
-Completed Lessons : 3 / 71
+Completed Lessons : 4 / 71
 
-Remaining Lessons : 68
+Remaining Lessons : 67
 
-Mini Projects : 0 / 16
+Mini Projects : 1 / 16
 ```
 <!-- AUTO_PROGRESS_END -->
 
@@ -172,9 +172,9 @@ Mini Projects : 0 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 03
+Day 04
 
-User Input
+Mad Libs Game
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ User Input
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 04
+Day 05
 
-Mad Libs Game
+Arithmetic
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,6 +196,7 @@ Mad Libs Game
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 04 - Mad Libs Game
 ✓ Day 03 - User Input
 ✓ Day 02 - Variables
 ✓ Day 01 - Introduction To Java
@@ -232,7 +233,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 01 | Introduction to Java | ✅ |
 | 02 | Variables | ✅ |
 | 03 | User Input | ✅ |
-| 04 | ⭐ Mad Libs Game | ⬜ |
+| 04 | ⭐ Mad Libs Game | ✅ |
 | 05 | Arithmetic | ⬜ |
 | 06 | ⭐ Shopping Cart Program | ⬜ |
 | 07 | If Statements | ⬜ |
