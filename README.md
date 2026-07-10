@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **4** |
-| Remaining Lessons | **67** |
-| Completion | **6%** |
+| Completed Lessons | **5** |
+| Remaining Lessons | **66** |
+| Completion | **7%** |
 | Mini Projects Completed | **1 / 16** |
-| Current Lesson | **Day 04 — Mad Libs Game** |
-| Next Lesson | **Day 05 — Arithmetic** |
-| Last Updated | **Day 04 — Mad Libs Game** |
+| Current Lesson | **Day 05 — Arithmetic** |
+| Next Lesson | **Day 06 — Shopping Cart Program** |
+| Last Updated | **Day 05 — Arithmetic** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,11 +156,11 @@ Overall Progress
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 6%
+Completion : 7%
 
-Completed Lessons : 4 / 71
+Completed Lessons : 5 / 71
 
-Remaining Lessons : 67
+Remaining Lessons : 66
 
 Mini Projects : 1 / 16
 ```
@@ -172,9 +172,9 @@ Mini Projects : 1 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 04
+Day 05
 
-Mad Libs Game
+Arithmetic
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Mad Libs Game
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 05
+Day 06
 
-Arithmetic
+Shopping Cart Program
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,6 +196,7 @@ Arithmetic
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 05 - Arithmetic
 ✓ Day 04 - Mad Libs Game
 ✓ Day 03 - User Input
 ✓ Day 02 - Variables
@@ -234,7 +235,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 02 | Variables | ✅ |
 | 03 | User Input | ✅ |
 | 04 | ⭐ Mad Libs Game | ✅ |
-| 05 | Arithmetic | ⬜ |
+| 05 | Arithmetic | ✅ |
 | 06 | ⭐ Shopping Cart Program | ⬜ |
 | 07 | If Statements | ⬜ |
 | 08 | Random Numbers | ⬜ |
