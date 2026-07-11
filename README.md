@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **5** |
-| Remaining Lessons | **66** |
-| Completion | **7%** |
-| Mini Projects Completed | **1 / 16** |
-| Current Lesson | **Day 05 — Arithmetic** |
-| Next Lesson | **Day 06 — Shopping Cart Program** |
-| Last Updated | **Day 05 — Arithmetic** |
+| Completed Lessons | **6** |
+| Remaining Lessons | **65** |
+| Completion | **8%** |
+| Mini Projects Completed | **2 / 16** |
+| Current Lesson | **Day 06 — Shopping Cart Program** |
+| Next Lesson | **Day 07 — If Statements** |
+| Last Updated | **Day 06 — Shopping Cart Program** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,13 +156,13 @@ Overall Progress
 
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 7%
+Completion : 8%
 
-Completed Lessons : 5 / 71
+Completed Lessons : 6 / 71
 
-Remaining Lessons : 66
+Remaining Lessons : 65
 
-Mini Projects : 1 / 16
+Mini Projects : 2 / 16
 ```
 <!-- AUTO_PROGRESS_END -->
 
@@ -172,9 +172,9 @@ Mini Projects : 1 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 05
+Day 06
 
-Arithmetic
+Shopping Cart Program
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Arithmetic
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 06
+Day 07
 
-Shopping Cart Program
+If Statements
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ Shopping Cart Program
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 06 - Shopping Cart Program
 ✓ Day 05 - Arithmetic
 ✓ Day 04 - Mad Libs Game
 ✓ Day 03 - User Input
 ✓ Day 02 - Variables
-✓ Day 01 - Introduction To Java
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -236,7 +236,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 03 | User Input | ✅ |
 | 04 | ⭐ Mad Libs Game | ✅ |
 | 05 | Arithmetic | ✅ |
-| 06 | ⭐ Shopping Cart Program | ⬜ |
+| 06 | ⭐ Shopping Cart Program | ✅ |
 | 07 | If Statements | ⬜ |
 | 08 | Random Numbers | ⬜ |
 | 09 | Math Class | ⬜ |
