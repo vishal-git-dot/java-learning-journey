@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **6** |
-| Remaining Lessons | **65** |
-| Completion | **8%** |
+| Completed Lessons | **8** |
+| Remaining Lessons | **63** |
+| Completion | **11%** |
 | Mini Projects Completed | **2 / 16** |
-| Current Lesson | **Day 06 — Shopping Cart Program** |
-| Next Lesson | **Day 07 — If Statements** |
-| Last Updated | **Day 06 — Shopping Cart Program** |
+| Current Lesson | **Day 08 — Random Numbers** |
+| Next Lesson | **Day 09 — Math Class** |
+| Last Updated | **Day 08 — Random Numbers** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -154,13 +154,13 @@ dayXX-topic-name/
 ```text
 Overall Progress
 
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 8%
+Completion : 11%
 
-Completed Lessons : 6 / 71
+Completed Lessons : 8 / 71
 
-Remaining Lessons : 65
+Remaining Lessons : 63
 
 Mini Projects : 2 / 16
 ```
@@ -172,9 +172,9 @@ Mini Projects : 2 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 06
+Day 08
 
-Shopping Cart Program
+Random Numbers
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Shopping Cart Program
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 07
+Day 09
 
-If Statements
+Math Class
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ If Statements
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 08 - Random Numbers
+✓ Day 07 - If Statements
 ✓ Day 06 - Shopping Cart Program
 ✓ Day 05 - Arithmetic
 ✓ Day 04 - Mad Libs Game
-✓ Day 03 - User Input
-✓ Day 02 - Variables
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -237,8 +237,8 @@ The roadmap below is updated automatically by GitHub Actions.
 | 04 | ⭐ Mad Libs Game | ✅ |
 | 05 | Arithmetic | ✅ |
 | 06 | ⭐ Shopping Cart Program | ✅ |
-| 07 | If Statements | ⬜ |
-| 08 | Random Numbers | ⬜ |
+| 07 | If Statements | ✅ |
+| 08 | Random Numbers | ✅ |
 | 09 | Math Class | ⬜ |
 | 10 | printf() | ⬜ |
 | 11 | ⭐ Compound Interest Calculator | ⬜ |
