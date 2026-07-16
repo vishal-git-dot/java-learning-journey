@@ -1,8 +1,9 @@
 # Day 08 — Random Numbers in Java
 
-> **Course Chapter:** Chapter 8 — Random Numbers  
-> **Course Timestamp:** 1:22:33 – 1:27:20  
-> **Topic:** Generating Random Numbers Using the `Random` Class
+> **Course:** Java Masterclass (71 Lessons)  
+> **Lesson:** 08 / 71  
+> **Topic:** Random Numbers  
+> **Status:** ✅ Completed
 
 ---
 
