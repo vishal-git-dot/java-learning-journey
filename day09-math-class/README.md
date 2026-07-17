@@ -1,6 +1,6 @@
 # Day 09 — Math Class in Java
 
-> **Course Lesson:** 09 
+> **Course Lesson:** 09
 > **Topic:** Math Class  
 > **Status:** ✅ Completed
 
