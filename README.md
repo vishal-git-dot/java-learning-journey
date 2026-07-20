@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **10** |
-| Remaining Lessons | **61** |
-| Completion | **14%** |
-| Mini Projects Completed | **2 / 16** |
-| Current Lesson | **Day 10 — Printf** |
-| Next Lesson | **Day 11 — Compound Interest Calculator** |
-| Last Updated | **Day 10 — Printf** |
+| Completed Lessons | **11** |
+| Remaining Lessons | **60** |
+| Completion | **15%** |
+| Mini Projects Completed | **3 / 16** |
+| Current Lesson | **Day 11 — Compound Interest Calculator** |
+| Next Lesson | **Day 12 — Nested If Statements** |
+| Last Updated | **Day 11 — Compound Interest Calculator** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,13 +156,13 @@ Overall Progress
 
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 14%
+Completion : 15%
 
-Completed Lessons : 10 / 71
+Completed Lessons : 11 / 71
 
-Remaining Lessons : 61
+Remaining Lessons : 60
 
-Mini Projects : 2 / 16
+Mini Projects : 3 / 16
 ```
 <!-- AUTO_PROGRESS_END -->
 
@@ -172,9 +172,9 @@ Mini Projects : 2 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 10
+Day 11
 
-Printf
+Compound Interest Calculator
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Printf
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 11
+Day 12
 
-Compound Interest Calculator
+Nested If Statements
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ Compound Interest Calculator
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 11 - Compound Interest Calculator
 ✓ Day 10 - Printf
 ✓ Day 09 - Math Class
 ✓ Day 08 - Random Numbers
 ✓ Day 07 - If Statements
-✓ Day 06 - Shopping Cart Program
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -241,7 +241,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 08 | Random Numbers | ✅ |
 | 09 | Math Class | ✅ |
 | 10 | printf() | ✅ |
-| 11 | ⭐ Compound Interest Calculator | ⬜ |
+| 11 | ⭐ Compound Interest Calculator | ✅ |
 | 12 | Nested If Statements | ⬜ |
 | 13 | String Methods | ⬜ |
 | 14 | Substrings | ⬜ |
