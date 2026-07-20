@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **9** |
-| Remaining Lessons | **62** |
-| Completion | **13%** |
+| Completed Lessons | **10** |
+| Remaining Lessons | **61** |
+| Completion | **14%** |
 | Mini Projects Completed | **2 / 16** |
-| Current Lesson | **Day 09 — Math Class** |
-| Next Lesson | **Day 10 — printf()** |
-| Last Updated | **Day 09 — Math Class** |
+| Current Lesson | **Day 10 — Printf** |
+| Next Lesson | **Day 11 — Compound Interest Calculator** |
+| Last Updated | **Day 10 — Printf** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,11 +156,11 @@ Overall Progress
 
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 13%
+Completion : 14%
 
-Completed Lessons : 9 / 71
+Completed Lessons : 10 / 71
 
-Remaining Lessons : 62
+Remaining Lessons : 61
 
 Mini Projects : 2 / 16
 ```
@@ -172,9 +172,9 @@ Mini Projects : 2 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 09
+Day 10
 
-Math Class
+Printf
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Math Class
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 10
+Day 11
 
-printf()
+Compound Interest Calculator
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ printf()
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 10 - Printf
 ✓ Day 09 - Math Class
 ✓ Day 08 - Random Numbers
 ✓ Day 07 - If Statements
 ✓ Day 06 - Shopping Cart Program
-✓ Day 05 - Arithmetic
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -240,7 +240,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 07 | If Statements | ✅ |
 | 08 | Random Numbers | ✅ |
 | 09 | Math Class | ✅ |
-| 10 | printf() | ⬜ |
+| 10 | printf() | ✅ |
 | 11 | ⭐ Compound Interest Calculator | ⬜ |
 | 12 | Nested If Statements | ⬜ |
 | 13 | String Methods | ⬜ |
