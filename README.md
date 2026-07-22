@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **12** |
-| Remaining Lessons | **59** |
-| Completion | **17%** |
+| Completed Lessons | **13** |
+| Remaining Lessons | **58** |
+| Completion | **18%** |
 | Mini Projects Completed | **3 / 16** |
-| Current Lesson | **Day 12 — Nested If Statements** |
-| Next Lesson | **Day 13 — String Methods** |
-| Last Updated | **Day 12 — Nested If Statements** |
+| Current Lesson | **Day 13 — String Methods** |
+| Next Lesson | **Day 14 — Substrings** |
+| Last Updated | **Day 13 — String Methods** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,11 +156,11 @@ Overall Progress
 
 █████░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 17%
+Completion : 18%
 
-Completed Lessons : 12 / 71
+Completed Lessons : 13 / 71
 
-Remaining Lessons : 59
+Remaining Lessons : 58
 
 Mini Projects : 3 / 16
 ```
@@ -172,9 +172,9 @@ Mini Projects : 3 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 12
+Day 13
 
-Nested If Statements
+String Methods
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Nested If Statements
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 13
+Day 14
 
-String Methods
+Substrings
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ String Methods
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 13 - String Methods
 ✓ Day 12 - Nested If Statements
 ✓ Day 11 - Compound Interest Calculator
 ✓ Day 10 - Printf
 ✓ Day 09 - Math Class
-✓ Day 08 - Random Numbers
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -243,7 +243,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 10 | printf() | ✅ |
 | 11 | ⭐ Compound Interest Calculator | ✅ |
 | 12 | Nested If Statements | ✅ |
-| 13 | String Methods | ⬜ |
+| 13 | String Methods | ✅ |
 | 14 | Substrings | ⬜ |
 | 15 | ⭐ Weight Converter | ⬜ |
 | 16 | Ternary Operator | ⬜ |
