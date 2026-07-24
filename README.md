@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **13** |
-| Remaining Lessons | **58** |
-| Completion | **18%** |
+| Completed Lessons | **14** |
+| Remaining Lessons | **57** |
+| Completion | **20%** |
 | Mini Projects Completed | **3 / 16** |
-| Current Lesson | **Day 13 — String Methods** |
-| Next Lesson | **Day 14 — Substrings** |
-| Last Updated | **Day 13 — String Methods** |
+| Current Lesson | **Day 14 — Substrings** |
+| Next Lesson | **Day 15 — Weight Converter** |
+| Last Updated | **Day 14 — Substrings** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -154,13 +154,13 @@ dayXX-topic-name/
 ```text
 Overall Progress
 
-█████░░░░░░░░░░░░░░░░░░░░░░░░░
+██████░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 18%
+Completion : 20%
 
-Completed Lessons : 13 / 71
+Completed Lessons : 14 / 71
 
-Remaining Lessons : 58
+Remaining Lessons : 57
 
 Mini Projects : 3 / 16
 ```
@@ -172,9 +172,9 @@ Mini Projects : 3 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 13
+Day 14
 
-String Methods
+Substrings
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ String Methods
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 14
+Day 15
 
-Substrings
+Weight Converter
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ Substrings
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 14 - Substrings
 ✓ Day 13 - String Methods
 ✓ Day 12 - Nested If Statements
 ✓ Day 11 - Compound Interest Calculator
 ✓ Day 10 - Printf
-✓ Day 09 - Math Class
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -244,7 +244,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 11 | ⭐ Compound Interest Calculator | ✅ |
 | 12 | Nested If Statements | ✅ |
 | 13 | String Methods | ✅ |
-| 14 | Substrings | ⬜ |
+| 14 | Substrings | ✅ |
 | 15 | ⭐ Weight Converter | ⬜ |
 | 16 | Ternary Operator | ⬜ |
 | 17 | ⭐ Temperature Converter | ⬜ |
