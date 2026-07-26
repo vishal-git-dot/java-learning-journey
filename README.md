@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **14** |
-| Remaining Lessons | **57** |
-| Completion | **20%** |
-| Mini Projects Completed | **3 / 16** |
-| Current Lesson | **Day 14 — Substrings** |
-| Next Lesson | **Day 15 — Weight Converter** |
-| Last Updated | **Day 14 — Substrings** |
+| Completed Lessons | **15** |
+| Remaining Lessons | **56** |
+| Completion | **21%** |
+| Mini Projects Completed | **4 / 16** |
+| Current Lesson | **Day 15 — Weight Converter** |
+| Next Lesson | **Day 16 — Ternary Operator** |
+| Last Updated | **Day 15 — Weight Converter** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,13 +156,13 @@ Overall Progress
 
 ██████░░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 20%
+Completion : 21%
 
-Completed Lessons : 14 / 71
+Completed Lessons : 15 / 71
 
-Remaining Lessons : 57
+Remaining Lessons : 56
 
-Mini Projects : 3 / 16
+Mini Projects : 4 / 16
 ```
 <!-- AUTO_PROGRESS_END -->
 
@@ -172,9 +172,9 @@ Mini Projects : 3 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 14
+Day 15
 
-Substrings
+Weight Converter
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Substrings
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 15
+Day 16
 
-Weight Converter
+Ternary Operator
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ Weight Converter
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 15 - Weight Converter
 ✓ Day 14 - Substrings
 ✓ Day 13 - String Methods
 ✓ Day 12 - Nested If Statements
 ✓ Day 11 - Compound Interest Calculator
-✓ Day 10 - Printf
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -245,7 +245,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 12 | Nested If Statements | ✅ |
 | 13 | String Methods | ✅ |
 | 14 | Substrings | ✅ |
-| 15 | ⭐ Weight Converter | ⬜ |
+| 15 | ⭐ Weight Converter | ✅ |
 | 16 | Ternary Operator | ⬜ |
 | 17 | ⭐ Temperature Converter | ⬜ |
 | 18 | Enhanced Switch | ⬜ |
