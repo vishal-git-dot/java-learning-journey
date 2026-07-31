@@ -137,13 +137,13 @@ dayXX-topic-name/
 | Statistic | Value |
 |-----------|------:|
 | Total Lessons | **71** |
-| Completed Lessons | **16** |
-| Remaining Lessons | **55** |
-| Completion | **23%** |
-| Mini Projects Completed | **4 / 16** |
-| Current Lesson | **Day 16 — Ternary Operator** |
-| Next Lesson | **Day 17 — Temperature Converter** |
-| Last Updated | **Day 16 — Ternary Operator** |
+| Completed Lessons | **17** |
+| Remaining Lessons | **54** |
+| Completion | **24%** |
+| Mini Projects Completed | **5 / 16** |
+| Current Lesson | **Day 17 — Temperature Converter** |
+| Next Lesson | **Day 18 — Enhanced Switch** |
+| Last Updated | **Day 17 — Temperature Converter** |
 <!-- AUTO_STATS_END -->
 
 ---
@@ -156,13 +156,13 @@ Overall Progress
 
 ███████░░░░░░░░░░░░░░░░░░░░░░░
 
-Completion : 23%
+Completion : 24%
 
-Completed Lessons : 16 / 71
+Completed Lessons : 17 / 71
 
-Remaining Lessons : 55
+Remaining Lessons : 54
 
-Mini Projects : 4 / 16
+Mini Projects : 5 / 16
 ```
 <!-- AUTO_PROGRESS_END -->
 
@@ -172,9 +172,9 @@ Mini Projects : 4 / 16
 
 <!-- AUTO_CURRENT_START -->
 ```text
-Day 16
+Day 17
 
-Ternary Operator
+Temperature Converter
 ```
 <!-- AUTO_CURRENT_END -->
 
@@ -184,9 +184,9 @@ Ternary Operator
 
 <!-- AUTO_NEXT_START -->
 ```text
-Day 17
+Day 18
 
-Temperature Converter
+Enhanced Switch
 ```
 <!-- AUTO_NEXT_END -->
 
@@ -196,11 +196,11 @@ Temperature Converter
 
 <!-- AUTO_RECENT_START -->
 ```text
+✓ Day 17 - Temperature Converter
 ✓ Day 16 - Ternary Operator
 ✓ Day 15 - Weight Converter
 ✓ Day 14 - Substrings
 ✓ Day 13 - String Methods
-✓ Day 12 - Nested If Statements
 ```
 <!-- AUTO_RECENT_END -->
 
@@ -247,7 +247,7 @@ The roadmap below is updated automatically by GitHub Actions.
 | 14 | Substrings | ✅ |
 | 15 | ⭐ Weight Converter | ✅ |
 | 16 | Ternary Operator | ✅ |
-| 17 | ⭐ Temperature Converter | ⬜ |
+| 17 | ⭐ Temperature Converter | ✅ |
 | 18 | Enhanced Switch | ⬜ |
 | 19 | ⭐ Calculator Program | ⬜ |
 | 20 | Logical Operators | ⬜ |
